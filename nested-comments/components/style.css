@@ -1,0 +1,44 @@
+.new-comment{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.add-comment{
+    background-color: #d3c6a1;
+    width: 80px;
+}
+
+.show-replies { 
+    background-color: beige;
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+.new-comment-conatiner{
+    display: flex;
+    gap: 10px;
+}
+
+.comment-section{
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+.comment-item{
+    background-color: #899fcf;
+    margin:1rem 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.date-modified{
+    font-size:12px;
+    color: #ccc;
+    margin-top: 5px;
+}
+
+.reply-section{
+    background-color: #ffffff;
+    padding:10px;
+}

@@ -1,0 +1,404 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "name": "Fluffy",
+      "type": "Dog",
+      "breed": "Golden Retriever",
+      "image": "/api/placeholder/400/300?text=Golden+Retriever",
+      "description": "Energetic and loving family companion"
+    }, 
+    {
+      "id": 2,
+      "name": "Whiskers",
+      "type": "Cat",
+      "breed": "Siamese",
+      "image": "/api/placeholder/400/300?text=Siamese+Cat",
+      "description": "Vocal and intelligent indoor cat"
+    },
+    {
+      "id": 3,
+      "name": "Hoppy",
+      "type": "Rabbit",
+      "breed": "Netherland Dwarf",
+      "image": "/api/placeholder/400/300?text=Dwarf+Rabbit",
+      "description": "Small and playful house rabbit"
+    },
+    {
+      "id": 4,
+      "name": "Scales",
+      "type": "Lizard",
+      "breed": "Bearded Dragon",
+      "image": "/api/placeholder/400/300?text=Bearded+Dragon",
+      "description": "Calm reptile with unique personality"
+    },
+    {
+      "id": 5,
+      "name": "Polly",
+      "type": "Bird",
+      "breed": "African Grey Parrot",
+      "image": "/api/placeholder/400/300?text=African+Grey+Parrot",
+      "description": "Highly intelligent talking bird"
+    },
+    {
+      "id": 6,
+      "name": "Shadow",
+      "type": "Dog",
+      "breed": "German Shepherd",
+      "image": "/api/placeholder/400/300?text=German+Shepherd",
+      "description": "Loyal and protective working dog"
+    },
+    {
+      "id": 7,
+      "name": "Luna",
+      "type": "Cat",
+      "breed": "Russian Blue",
+      "image": "/api/placeholder/400/300?text=Russian+Blue+Cat",
+      "description": "Quiet and gentle with a silvery coat"
+    },
+    {
+      "id": 8,
+      "name": "Spike",
+      "type": "Hedgehog",
+      "breed": "African Pygmy",
+      "image": "/api/placeholder/400/300?text=Pygmy+Hedgehog",
+      "description": "Cute and spiky small companion"
+    },
+    {
+      "id": 9,
+      "name": "Nemo",
+      "type": "Fish",
+      "breed": "Clownfish",
+      "image": "/api/placeholder/400/300?text=Clownfish",
+      "description": "Vibrant marine aquarium resident"
+    },
+    {
+      "id": 10,
+      "name": "Cocoa",
+      "type": "Hamster",
+      "breed": "Syrian",
+      "image": "/api/placeholder/400/300?text=Syrian+Hamster",
+      "description": "Adorable pocket-sized pet"
+    },
+    {
+      "id": 11,
+      "name": "Rocky",
+      "type": "Dog",
+      "breed": "Bulldog",
+      "image": "/api/placeholder/400/300?text=Bulldog",
+      "description": "Muscular and wrinkly companionship"
+    },
+    {
+      "id": 12,
+      "name": "Mittens",
+      "type": "Cat",
+      "breed": "Maine Coon",
+      "image": "/api/placeholder/400/300?text=Maine+Coon",
+      "description": "Large and fluffy gentle giant"
+    },
+    {
+      "id": 13,
+      "name": "Nibbles",
+      "type": "Guinea Pig",
+      "breed": "Abyssinian",
+      "image": "/api/placeholder/400/300?text=Guinea+Pig",
+      "description": "Social and vocal small pet"
+    },
+    {
+      "id": 14,
+      "name": "Rainbow",
+      "type": "Bird",
+      "breed": "Cockatiel",
+      "image": "/api/placeholder/400/300?text=Cockatiel",
+      "description": "Cheerful and musical companion"
+    },
+    {
+      "id": 15,
+      "name": "Rex",
+      "type": "Dog",
+      "breed": "Rottweiler",
+      "image": "/api/placeholder/400/300?text=Rottweiler",
+      "description": "Strong and confident guardian"
+    },
+    {
+      "id": 16,
+      "name": "Pepper",
+      "type": "Cat",
+      "breed": "Bengal",
+      "image": "/api/placeholder/400/300?text=Bengal+Cat",
+      "description": "Wild-looking spotted feline"
+    },
+    {
+      "id": 17,
+      "name": "Slither",
+      "type": "Snake",
+      "breed": "Corn Snake",
+      "image": "/api/placeholder/400/300?text=Corn+Snake",
+      "description": "Docile and colorful reptile"
+    },
+    {
+      "id": 18,
+      "name": "Bubbles",
+      "type": "Fish",
+      "breed": "Betta",
+      "image": "/api/placeholder/400/300?text=Betta+Fish",
+      "description": "Vibrant and elegant aquarium fish"
+    },
+    {
+      "id": 19,
+      "name": "Jumper",
+      "type": "Rabbit",
+      "breed": "Holland Lop",
+      "image": "/api/placeholder/400/300?text=Holland+Lop",
+      "description": "Compact and floppy-eared bunny"
+    },
+    {
+      "id": 20,
+      "name": "Gecko",
+      "type": "Lizard",
+      "breed": "Leopard Gecko",
+      "image": "/api/placeholder/400/300?text=Leopard+Gecko",
+      "description": "Gentle and low-maintenance reptile"
+    },
+    {
+      "id": 21,
+      "name": "Max",
+      "type": "Dog",
+      "breed": "Labrador Retriever",
+      "image": "/api/placeholder/400/300?text=Labrador+Retriever",
+      "description": "Friendly and active family dog"
+    },
+    {
+      "id": 22,
+      "name": "Smokey",
+      "type": "Cat",
+      "breed": "British Shorthair",
+      "image": "/api/placeholder/400/300?text=British+Shorthair",
+      "description": "Round-faced and calm companion"
+    },
+    {
+      "id": 23,
+      "name": "Squeak",
+      "type": "Hamster",
+      "breed": "Dwarf Campbell",
+      "image": "/api/placeholder/400/300?text=Dwarf+Hamster",
+      "description": "Tiny and energetic pocket pet"
+    },
+    {
+      "id": 24,
+      "name": "Feathers",
+      "type": "Bird",
+      "breed": "Lovebird",
+      "image": "/api/placeholder/400/300?text=Lovebird",
+      "description": "Small and affectionate parrot"
+    },
+    {
+      "id": 25,
+      "name": "Duke",
+      "type": "Dog",
+      "breed": "Great Dane",
+      "image": "/api/placeholder/400/300?text=Great+Dane",
+      "description": "Gentle giant with noble demeanor"
+    },
+    {
+      "id": 26,
+      "name": "Tiger",
+      "type": "Cat",
+      "breed": "Norwegian Forest Cat",
+      "image": "/api/placeholder/400/300?text=Norwegian+Forest+Cat",
+      "description": "Thick-coated woodland breed"
+    },
+    {
+      "id": 27,
+      "name": "Peanut",
+      "type": "Ferret",
+      "breed": "Standard White",
+      "image": "/api/placeholder/400/300?text=Ferret",
+      "description": "Playful and mischievous mustelid"
+    },
+    {
+      "id": 28,
+      "name": "Stripe",
+      "type": "Lizard",
+      "breed": "Blue-Tongued Skink",
+      "image": "/api/placeholder/400/300?text=Blue-Tongued+Skink",
+      "description": "Unique reptile with distinctive tongue"
+    },
+    {
+      "id": 29,
+      "name": "Sailor",
+      "type": "Fish",
+      "breed": "Angelfish",
+      "image": "/api/placeholder/400/300?text=Angelfish",
+      "description": "Elegant tropical aquarium resident"
+    },
+    {
+      "id": 30,
+      "name": "Thumper",
+      "type": "Rabbit",
+      "breed": "Rex",
+      "image": "/api/placeholder/400/300?text=Rex+Rabbit",
+      "description": "Soft-furred and gentle bunny"
+    },
+    {
+      "id": 31,
+      "name": "Chirp",
+      "type": "Bird",
+      "breed": "Budgerigar",
+      "image": "/api/placeholder/400/300?text=Budgerigar",
+      "description": "Cheerful and talkative parakeet"
+    },
+    {
+      "id": 32,
+      "name": "Bella",
+      "type": "Dog",
+      "breed": "Poodle",
+      "image": "/api/placeholder/400/300?text=Poodle",
+      "description": "Intelligent and elegant companion"
+    },
+    {
+      "id": 33,
+      "name": "Gizmo",
+      "type": "Cat",
+      "breed": "Scottish Fold",
+      "image": "/api/placeholder/400/300?text=Scottish+Fold",
+      "description": "Unique folded-ear feline"
+    },
+    {
+      "id": 34,
+      "name": "Fizz",
+      "type": "Ferret",
+      "breed": "Sable",
+      "image": "/api/placeholder/400/300?text=Sable+Ferret",
+      "description": "Energetic and curious mustelid"
+    },
+    {
+      "id": 35,
+      "name": "Bubba",
+      "type": "Snake",
+      "breed": "Ball Python",
+      "image": "/api/placeholder/400/300?text=Ball+Python",
+      "description": "Docile and popular pet snake"
+    },
+    {
+      "id": 36,
+      "name": "Goldie",
+      "type": "Fish",
+      "breed": "Goldfish",
+      "image": "/api/placeholder/400/300?text=Goldfish",
+      "description": "Classic aquarium inhabitant"
+    },
+    {
+      "id": 37,
+      "name": "Snowball",
+      "type": "Rabbit",
+      "breed": "Lionhead",
+      "image": "/api/placeholder/400/300?text=Lionhead+Rabbit",
+      "description": "Fluffy and distinctive breed"
+    },
+    {
+      "id": 38,
+      "name": "Spike",
+      "type": "Lizard",
+      "breed": "Crested Gecko",
+      "image": "/api/placeholder/400/300?text=Crested+Gecko",
+      "description": "Unique tropical reptile pet"
+    },
+    {
+      "id": 39,
+      "name": "Charlie",
+      "type": "Dog",
+      "breed": "Corgi",
+      "image": "/api/placeholder/400/300?text=Corgi",
+      "description": "Short-legged and charming companion"
+    },
+    {
+      "id": 40,
+      "name": "Oreo",
+      "type": "Cat",
+      "breed": "Tuxedo",
+      "image": "/api/placeholder/400/300?text=Tuxedo+Cat",
+      "description": "Black and white colored feline"
+    },
+    {
+      "id": 41,
+      "name": "Ziggy",
+      "type": "Hamster",
+      "breed": "Roborovski Dwarf",
+      "image": "/api/placeholder/400/300?text=Roborovski+Hamster",
+      "description": "Smallest and fastest hamster breed"
+    },
+    {
+      "id": 42,
+      "name": "Sunny",
+      "type": "Bird",
+      "breed": "Canary",
+      "image": "/api/placeholder/400/300?text=Canary",
+      "description": "Melodious yellow songbird"
+    },
+    {
+      "id": 43,
+      "name": "Thor",
+      "type": "Dog",
+      "breed": "Siberian Husky",
+      "image": "/api/placeholder/400/300?text=Siberian+Husky",
+      "description": "Energetic and wolf-like companion"
+    },
+    {
+      "id": 44,
+      "name": "Shadow",
+      "type": "Cat",
+      "breed": "Bombay",
+      "image": "/api/placeholder/400/300?text=Bombay+Cat",
+      "description": "Sleek black panther-like feline"
+    },
+    {
+      "id": 45,
+      "name": "Zigzag",
+      "type": "Snake",
+      "breed": "Kingsnake",
+      "image": "/api/placeholder/400/300?text=Kingsnake",
+      "description": "Colorful and non-venomous reptile"
+    },
+    {
+      "id": 46,
+      "name": "Goldie",
+      "type": "Guinea Pig",
+      "breed": "American",
+      "image": "/api/placeholder/400/300?text=American+Guinea+Pig",
+      "description": "Classic smooth-coated rodent"
+    },
+    {
+      "id": 47,
+      "name": "Rocket",
+      "type": "Ferret",
+      "breed": "Albino",
+      "image": "/api/placeholder/400/300?text=Albino+Ferret",
+      "description": "White-coated and playful pet"
+    },
+    {
+      "id": 48,
+      "name": "Rainbow",
+      "type": "Fish",
+      "breed": "Guppy",
+      "image": "/api/placeholder/400/300?text=Guppy+Fish",
+      "description": "Colorful and prolific aquarium fish"
+    },
+    {
+      "id": 49,
+      "name": "Ears",
+      "type": "Rabbit",
+      "breed": "English Lop",
+      "image": "/api/placeholder/400/300?text=English+Lop+Rabbit",
+      "description": "Distinctive long-eared breed"
+    },
+    {
+      "id": 50,
+      "name": "Scales",
+      "type": "Lizard",
+      "breed": "Green Anole",
+      "image": "/api/placeholder/400/300?text=Green+Anole",
+      "description": "Small and color-changing reptile"
+    }
+  ]
+}

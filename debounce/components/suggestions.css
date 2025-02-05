@@ -1,0 +1,14 @@
+.suggestion-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul{
+    list-style-type: none;
+    width: 20rem;
+    padding: 0;
+    text-align: left;
+    margin-top: 0;
+
+}
